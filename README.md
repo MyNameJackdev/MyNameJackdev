@@ -34,8 +34,8 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MyNameJackdev&show_icons=true&count_private=true&theme=github_dark" align="center" /></div>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyNameJackdev&hide_border=true&theme=github_dark" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MyNameJackdev&show_icons=true&count_private=false&theme=github_dark&hide_border=true" align="center" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyNameJackdev&hide_border=true&theme=github_dark" align="center" /></div>  
 
 <br/>  
 
